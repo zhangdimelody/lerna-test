@@ -22,9 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-<<<<<<< Updated upstream
-  "gitHead": "7bf798485657cb838de3bdfdf48b11c77ca88eb5"
-=======
   "gitHead": "2ddeb319d7bcd3e56343d541e532c03a047c8c2b"
->>>>>>> Stashed changes
 }
