@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "footer-test",
   "version": "0.0.2",
   "main": "dist/index.js",
   "scripts": {
@@ -22,5 +22,9 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "9284ee07501fc174630b8abd24d8210f9c77bd51"
+<<<<<<< Updated upstream
+  "gitHead": "7bf798485657cb838de3bdfdf48b11c77ca88eb5"
+=======
+  "gitHead": "2ddeb319d7bcd3e56343d541e532c03a047c8c2b"
+>>>>>>> Stashed changes
 }
